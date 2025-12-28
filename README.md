@@ -1,6 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building end-to-end data science projects using Python<br><br>Applying machine learning to real-world datasets<br><br>Creating clean, production-ready pipelines for data cleaning, analysis, and modeling<br><br>🤝 I’m looking to collaborate on<br><br>Data science & machine learning projects<br><br>Open-source tools for data analytics, visualization, or automation<br><br>Kaggle competitions & applied AI research<br><br>🫱🏽‍🫲🏼 I’m looking for help with<br><br>Model deployment & MLOps workflows<br><br>Feature engineering for complex datasets<br><br>Writing production-grade ML code<br><br>🌱 I’m currently learning<br><br>Advanced machine learning algorithms<br><br>Deep learning with Python<br><br>Data storytelling and visualization for business impact
+💫 About Me
 
+🔭 Working on: End-to-end data science projects in Python, real-world ML, clean data pipelines
+🤝 Collaborate on: Data science, ML, open-source analytics tools, Kaggle
+🫱🏽‍🫲🏼 Need help with: MLOps, feature engineering, production ML
+🌱 Learning: Advanced ML, deep learning, data storytelling & visualization
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/being_anand27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-tiwari-629923247) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwarimanand@gmail.com) 
